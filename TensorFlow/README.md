@@ -1,4 +1,4 @@
-**Note:** Notebook files are better viewed on local machines.
+**Note:** Notebook files are better viewed on local machines compared to github.
 
 For example, 
 
